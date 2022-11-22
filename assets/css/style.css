@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 :root {
-  --primary-color: #494949;
+  --primary-color: #572AC8;
   --primary-color-darker: rgb(9, 48, 56);
 }
 
@@ -44,7 +44,7 @@ form input:focus {
 
 form button {
   border: none;
-  background:rgb(7, 108, 240) ;
+  background:#572AC8 ;
   color: #fff;
   font-size: 18px;
   font-weight: 700;
